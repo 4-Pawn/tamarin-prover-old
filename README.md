@@ -1,5 +1,6 @@
 The Tamarin prover repository
 =============================
+
 [![master branch build-status](https://travis-ci.org/tamarin-prover/tamarin-prover.svg?branch=develop)](https://travis-ci.org/tamarin-prover/tamarin-prover)
 
 This README describes the organization of the repository of the Tamarin prover
